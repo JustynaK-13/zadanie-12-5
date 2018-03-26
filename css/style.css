@@ -1,0 +1,11 @@
+body {
+  margin 0 auto;
+  background: #55efc4;
+  text-align: center;
+}
+h1 {
+  padding: 20px;
+}
+.box {
+  padding: 40px;
+}
